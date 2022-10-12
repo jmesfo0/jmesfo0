@@ -3,6 +3,12 @@
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmesfo0)](https://github.com/jmesfo0)
 
+<p align="center">
+  <a href="https://discord.com/widget?id=985515273710870638&theme=dark">
+  <img width="35%" alt="Click to join Discord!" src="https://discordapp.com/api/guilds/985515273710870638/widget.png?style=banner2"/>
+</p>
+  
+  - ⚡ Fun fact: Once you put something on the internet, it's extremely hard to take it off. 😄
 <!--
 **jmesfo0/jmesfo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
