@@ -1,4 +1,7 @@
-### Hi there 👋
+### Stats
+[![jmesfo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmesfo0)](https://github.com/jmesfo0)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmesfo0)](https://github.com/jmesfo0)
 
 <!--
 **jmesfo0/jmesfo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
