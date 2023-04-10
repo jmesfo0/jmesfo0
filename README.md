@@ -6,9 +6,6 @@
 #### Most Used Languages
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmesfo0)](https://github.com/jmesfo0)
 
-#### Join My Discord
-[![Click To Join Discord](https://discordapp.com/api/guilds/985515273710870638/widget.png?style=banner2)](https://discord.com/widget?id=985515273710870638&theme=dark)
-
 </div>
 
 
